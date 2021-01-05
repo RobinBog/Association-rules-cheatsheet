@@ -1,6 +1,10 @@
 # Association-rules-cheatsheet
 This is a cheatsheet for creating association rules based on frequent itemsets (apriori).
 
+## Setup
+Install mlxtend library from anaconda prompt 
+- https://anaconda.org/conda-forge/mlxtend
+
 ## Main Features
 - Data preparation
 - Identify frequent itemsets with apriori algorithm
@@ -8,10 +12,6 @@ This is a cheatsheet for creating association rules based on frequent itemsets (
 
 ## Dataset
 -  shoppingcarts from a store
-
-## Setup
-Install mlxtend library from anaconda prompt 
-- https://anaconda.org/conda-forge/mlxtend
 
 # What are Association Rules?
 <img width="500" src="images/marketbasketanalysis.png" />
